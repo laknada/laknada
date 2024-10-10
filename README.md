@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laknada&label=Profile%20views&color=0e75b6&style=flat" alt="laknada" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=laknada&label=Profile%20views&color=0e75b6&style=flat" alt="laknada" /> </p>
 
 - 🌱 I’m currently learning **python**
 
